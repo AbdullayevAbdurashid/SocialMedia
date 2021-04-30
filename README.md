@@ -1,5 +1,9 @@
 This is the frontend side.
 Used: React, Redux, and Material-UI
+ To view use  https://socialmediappabdu.netlify.app/
+ 
+ 
+ 
 
 To run this app from the front-end only:
 ## 1: Install packages
